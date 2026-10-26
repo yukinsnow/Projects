@@ -29,3 +29,8 @@ kind 支持 new（新项目）、rebuild（重构）、derivative（衍生）；
 本项目为原生 HTML/CSS/JS，不需要 npm install、环境变量或服务端。保存部署后，后续推送 main 会由 Cloudflare 自动更新。
 
 本地预览可使用任意静态 HTTP 服务，将 dist 设置为站点目录。
+
+## 展示截图
+
+项目封面优先使用真实界面截图，使用 contain 完整展示，详情支持打开原图。词格酱、elaina、LuCI 与 Lite Link 来自原仓库；ikaBeat 截图来自当前源码的本地网页预览（不代表原生平台验收）。NetScope 暂无可用截图，保留原始图标。
+
