@@ -32,6 +32,7 @@ kind 支持 new（新项目）、rebuild（重构）、derivative（衍生）；
 
 ## 展示截图
 
-项目封面优先使用真实界面截图，使用 contain 完整展示，详情支持打开原图。词格酱来自实际网页编辑界面（示例歌词）；elaina、LuCI 与 Lite Link 来自原仓库；ikaBeat 截图来自当前源码的本地网页预览（不代表原生平台验收）。NetScope 暂无可用截图，保留原始图标。
+项目封面优先使用真实界面截图，使用 contain 完整展示，详情支持打开原图。词格酱来自实际网页编辑界面（示例歌词）；elaina、LuCI 与 Lite Link 来自原仓库；ikaBeat 截图来自当前源码的本地网页预览（不代表原生平台验收）。NetScope 使用官方发布 APK 在 MuMu Android 15 模拟器中的实际运行截图；模拟器截图不代表物理 USB 网卡的兼容性验证。
+
 
 
