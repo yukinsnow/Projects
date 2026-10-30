@@ -36,3 +36,5 @@ kind 支持 new（新项目）、rebuild（重构）、derivative（衍生）；
 
 
 
+
+Vocal Grid：使用当前源码构建的 Windows 原生界面截图。用途为 MIDI 转 SVP，音频合成由 Synthesizer V 完成。
